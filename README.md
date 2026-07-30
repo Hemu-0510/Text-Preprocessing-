@@ -1,4 +1,4 @@
-📝 Text Preprocessing Using Python
+## Text Preprocessing Using Python
 ## Project Overview
 
 This project demonstrates the process of cleaning and preprocessing raw text data using Python. The dataset contains conversations with URLs, email addresses, emojis, HTML tags, hashtags, mentions, phone numbers, punctuation, and special characters. The preprocessing pipeline converts the raw text into a clean format suitable for Natural Language Processing (NLP) tasks.
